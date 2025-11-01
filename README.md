@@ -18,7 +18,39 @@ A powerful, apisauce-inspired wrapper around SWR for standardized API data fetch
 
 ## Installation
 
-SWRKit is already included in this project. SWR dependency is already installed.
+Install SWRKit using your preferred package manager:
+
+```bash
+# npm
+npm install @mshindi-labs/swrkit
+
+# yarn
+yarn add @mshindi-labs/swrkit
+
+# pnpm
+pnpm add @mshindi-labs/swrkit
+
+# bun
+bun add @mshindi-labs/swrkit
+```
+
+**Peer Dependencies:**
+
+SWRKit requires the following peer dependencies:
+
+```bash
+# npm
+npm install swr react react-dom
+
+# yarn
+yarn add swr react react-dom
+
+# pnpm
+pnpm add swr react react-dom
+
+# bun
+bun add swr react react-dom
+```
 
 ## Quick Start
 
