@@ -966,8 +966,8 @@ if (!problem) {
 
 ## Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](https://github.com/swrkit/refetch/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! Please read [CONTRIBUTING.md](https://github.com/mshindi-labs/swrkit/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
-MIT License - see [LICENSE](https://github.com/mshindi-labs/refetch/swrkit/main/LICENSE) file for details.
+MIT License - see [LICENSE](https://github.com/mshindi-labs/swrkit/blob/main/LICENSE) file for details.
