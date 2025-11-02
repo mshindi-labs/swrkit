@@ -1,6 +1,6 @@
 {
   "name": "@mshindi-labs/swrkit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A powerful, apisauce-inspired wrapper around SWR for standardized API data fetching in React/Next.js applications",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
